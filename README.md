@@ -1,2 +1,2 @@
 # hide-and-seek
-[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
+Js exercice making the navbar dissapear on the scroll event
